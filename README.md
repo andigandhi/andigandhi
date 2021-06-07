@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi, my name is Andy alias andigandhi 👋
+
+### HOMEPAGE PROJECTS 💻
+
+[My personal homepage](https://andigandhi.ga/)
+
+[Crazy Records Label](https://crazyrec.de/)
+
+### MUSIC PROJECTS 🎶
+
+[DIY DJ controller](https://github.com/andigandhi/DIY-MIDI-controller)
+
 
 <!--
 **andigandhi/andigandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
