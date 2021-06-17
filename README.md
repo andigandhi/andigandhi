@@ -1,14 +1,20 @@
-## Hi, my name is Andy alias andigandhi 👋
-
-### HOMEPAGE PROJECTS 💻
-
-[My personal homepage](https://andigandhi.ga/)
-
-[Crazy Records Label](https://crazyrec.de/)
+## Hi, my name is Andy but you can call me andigandhi 👋
 
 ### MUSIC PROJECTS 🎶
 
-[DIY DJ controller](https://github.com/andigandhi/DIY-MIDI-controller)
+[DIY DJ controller](https://github.com/andigandhi/DIY-MIDI-controller) (90% finished)
+
+
+### LAB PROJECTS 🎶
+
+[Tool for creating routines in EC-lab](https://github.com/andigandhi/ec-lab-helper) (40% finished)
+
+
+### HOMEPAGE PROJECTS 💻
+
+[My personal homepage](https://andigandhi.ga/) (will be never finished)
+
+[Crazy Records Label](https://crazyrec.de/)  (60% finished)
 
 
 <!--
