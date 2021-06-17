@@ -5,7 +5,7 @@
 [DIY DJ controller](https://github.com/andigandhi/DIY-MIDI-controller) (90% finished)
 
 
-### LAB PROJECTS 🎶
+### LAB PROJECTS 🔬
 
 [Tool for creating routines in EC-lab](https://github.com/andigandhi/ec-lab-helper) (40% finished)
 
