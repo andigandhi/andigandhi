@@ -1,4 +1,4 @@
-## Hi, my name is Andy but you can call me andigandhi 👋
+## Hi 👋
 
 ### MUSIC PROJECTS 🎶
 
