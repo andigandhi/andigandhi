@@ -12,7 +12,7 @@
 
 ### HOMEPAGE PROJECTS 💻
 
-[My personal homepage](https://andigandhi.ga/) (will be never finished)
+[My personal homepage](https://andi.grasserisen.de/) (will be never finished)
 
 [Crazy Records Label](https://crazyrec.de/)  (60% finished)
 
