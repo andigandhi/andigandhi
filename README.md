@@ -2,6 +2,7 @@
 
 Take a look on my [My personal homepage](https://andi.grasserisen.de/) and leave a comment :)
 
+![Preview of the website](img/screenshot.png)
 
 <!--
 **andigandhi/andigandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
